@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/yuzhouliu9/airflow
+    repoURL: https://github.com/yuzhouliu9/argocd
     targetRevision: HEAD
     path: dev
   destination: 
